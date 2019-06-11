@@ -11,7 +11,7 @@ third_party {
     type: RAPID
     value: "https://rapid.corp.google.com/#/project/play-apps-publisher-app-bundle",
   }
-  version: "1-0e623487_c50b6180_2170e6fb_10feac4c_14624b3b"
-  last_upgrade_date { year: 2019 month: 2 day: 15 }
+  version: "1-13d7c78e_7fb7ffb9_8895a6b0_e38be8dc_5fdc985a"
+  last_upgrade_date { year: 2019 month: 6 day: 6 }
   license_type: NOTICE
 }
