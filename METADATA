@@ -8,10 +8,10 @@ third_party {
     value: "https://g.co/androidappbundle"
   }
   url {
-    type: ARCHIVE
-    value: "https://github.com/google/bundletool/releases/download/0.8.0/bundletool-all-0.8.0.jar",
+    type: RAPID
+    value: "https://rapid.corp.google.com/#/project/play-apps-publisher-app-bundle",
   }
-  version: "0.8.0"
-  last_upgrade_date { year: 2019 month: 2 day: 6 }
+  version: "1-0e623487_c50b6180_2170e6fb_10feac4c_14624b3b"
+  last_upgrade_date { year: 2019 month: 2 day: 15 }
   license_type: NOTICE
 }
